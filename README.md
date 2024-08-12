@@ -1,1 +1,2 @@
 # System-surveillance-using-Keylogger-
+This project focuses on the keystroke by keeping track of every key that is typed through the keyboard and this can be used in such legal cases for example School/institution: tracks keystrokes and log banned words. It has been developed with the help of Python. This contributes to the field of cybersecurity to be aware of the keystrokes which have been typed.
